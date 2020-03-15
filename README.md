@@ -5,7 +5,7 @@ this code is for https://www.tinymind.cn/competitions/41
 
 
 ## env
-ubuntu16.04 mxnet 1.2.0, cuda9, cudnn7, python3
+ubuntu16.04 mxnet-cu90 1.5.0, cuda9, cudnn7, python3
 
 ## How to use
 
